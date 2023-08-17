@@ -1,0 +1,319 @@
+* Modifiers (also useful with mouse, must be combinable)
+ - [ ] Control
+ - [ ] Alt
+ - [ ] Shift
+* Always available
+** Settings (3)
+ - [-] Toggle Friend or Foe Colors (other keyboard)
+ - [-] Display Statistics (other keyboard)
+ - [-] Display Game Time (other keyboard)
+ - [ ] Mini-map Economic Mode
+ - [ ] Mini-map Combat Mode
+ - [ ] Mini-map Normal Mode
+** Game Commands (2)
+ - [-] Flare (mouse middle)
+ - [ ] Pause Game
+** Chat (0)
+ - [-] Send Chat Message (other keyboard)
+** Camera (0)
+ - [-] Zoom In (ctrl + mouse up)
+ - [-] Zoom Out (ctrl + mouse down)
+ - [ ] Return to Previous View
+** Control Groups (28)
+ - [ ] Create Group #1
+ - [ ] Create Group #2
+ - [ ] Create Group #3
+ - [ ] Create Group #4
+ - [ ] Create Group #5
+ - [ ] Create Group #6
+ - [ ] Create Group #7
+ - [ ] Create Group #8
+ - [ ] Create Group #9
+ - [ ] Select Group #1
+ - [ ] Select Group #2
+ - [ ] Select Group #3
+ - [ ] Select Group #4
+ - [ ] Select Group #5
+ - [ ] Select Group #6
+ - [ ] Select Group #7
+ - [ ] Select Group #8
+ - [ ] Select Group #9
+ - [ ] Append Group #1
+ - [ ] Append Group #2
+ - [ ] Append Group #3
+ - [ ] Append Group #4
+ - [ ] Append Group #5
+ - [ ] Append Group #6
+ - [ ] Append Group #7
+ - [ ] Append Group #8
+ - [ ] Append Group #9
+ - [ ] Ungroup Control Group
+** Go-To Commands (20)
+ - [ ] Go to Mill
+ - [ ] Go to Mining Camp
+ - [ ] Go to Lumber Camp
+ - [ ] Go to Dock
+ - [ ] Go to Blacksmith
+ - [ ] Go to Market
+ - [ ] Go to Monastery
+ - [ ] Go to University
+ - [ ] Go to Town Center
+ - [ ] Go to Barracks
+ - [ ] Go to Archery Range
+ - [ ] Go to Stable
+ - [ ] Go to Siege Workshop
+ - [ ] Go to Castle
+ - [ ] Go to Krepost
+ - [ ] Go to Next Idle Military Unit
+ - [ ] Go to Next Idle Villager
+ - [ ] Go to Selected Object
+ - [ ] Go to King
+ - [ ] Go to Donjon
+** Select Commands (19)
+ - [ ] Select all Docks
+ - [ ] Select all Barracks
+ - [ ] Select all Archery Ranges
+ - [ ] Select all Stables
+ - [ ] Select all Siege Workshops
+ - [ ] Select all Castles
+ - [ ] Select all Kreposts
+ - [ ] Select all Donjons
+ - [ ] Select all Monasteries
+ - [ ] Select all Town Centers
+ - [ ] Select all Markets
+ - [ ] Select all Blacksmiths
+ - [ ] Select all Universities
+ - [ ] Select all Land Military Units
+ - [ ] Select all Idle Villagers
+ - [ ] Select all Visible Land Military Units
+ - [ ] Select all Idle Trade Carts
+ - [ ] Select all Idle Land/Naval Military Units
+ - [ ] Select all Trade Carts/Cogs
+* Contextual
+** All Units and buildings (2)
+ - [ ] Delete
+ - [ ] Delete All Selected
+** All Units (1)
+ - [-] Garrison (alt + mouse)
+ - [ ] Stop
+** Military Units (14)
+ - [ ] Attack Move
+ - [ ] Patrol
+ - [ ] Guard
+ - [ ] Follow
+ - [ ] Aggressive
+ - [ ] Defensive
+ - [ ] Stand Ground
+ - [ ] No Attack
+ - [ ] Line
+ - [ ] Box
+ - [ ] Staggered
+ - [ ] Flank
+ - [ ] Build (Serjeant)
+ - [ ] Change Weapon
+** Siege Units (3)
+ - [ ] Unpack
+ - [ ] Pack
+ - [ ] Attack Ground
+** Monks (3)
+ - [ ] Convert
+ - [ ] Heal
+ - [ ] Drop Relic
+** Villagers (4)
+ - [ ] Economic Buildings
+ - [ ] Military Buildings
+ - [ ] Repair
+ - [ ] Cancel Build
+** Scout (1)
+ - [ ] Auto Scout
+** Buildings/Transports (6)
+ - [ ] Set Gather Point
+ - [ ] Remove Gather Point
+ - [ ] Go Back to Work
+ - [ ] Unload/Ungarrison
+ - [ ] Lock/Unlock Gate
+ - [ ] Ungarrison
+** Economic Build Menu (14)
+ - [ ] House
+ - [ ] Mill
+ - [ ] Mining Camp
+ - [ ] Lumber Camp
+ - [ ] Dock
+ - [ ] Farm
+ - [ ] Blacksmith
+ - [ ] Market
+ - [ ] Monastery
+ - [ ] University
+ - [ ] Town Center
+ - [-] Wonder (mouse)
+ - [ ] Feitoria
+ - [ ] Caravanserai
+ - [ ] More Buildings
+** Military Build Menu (14)
+ - [ ] Barracks
+ - [ ] Archery Range
+ - [ ] Stable
+ - [ ] Siege Workshop
+ - [ ] Outpost
+ - [ ] Palisade Wall
+ - [ ] Stone Wall
+ - [ ] Tower
+ - [ ] Bombard Tower
+ - [ ] Gate
+ - [ ] Palisade Gate
+ - [-] Rotate Gate Clockwise (mouse)
+ - [-] Rotate Gate Counterclockwise (mouse)
+ - [ ] Castle
+ - [ ] Krepost
+ - [ ] More Buildings
+** Serjeant Build Menu (1)
+ - [ ] Donjon
+** Fishing Ship Build (3)
+ - [ ] Fish Trap
+ - [ ] Rebuild Fish Trap
+ - [ ] Toggle Automatic Fish Trap Rebuilding
+** Town Center (6)
+ - [ ] Villager
+ - [ ] Flemish Militia
+ - [ ] Tech: Loom
+ - [ ] Tech: Wheelbarrow, Hand Cart
+ - [ ] Tech: Town Watch, Town Guard
+ - [ ] Tech: Age Up
+** Dock (18)
+ - [ ] Fishing Ship
+ - [ ] Transport
+ - [ ] Trade Cog
+ - [ ] Galley, War Galley, Galleon
+ - [ ] Demolition Ship, Heavy Demolition Ship
+ - [ ] Fire Ship, Fast Fire Ship
+ - [ ] Cannon Galleon
+ - [ ] Unique Warships
+ - [ ] Longboat
+ - [ ] Turtle Ship, Elite Turtle Ship
+ - [ ] Tech: Gillnets
+ - [ ] Tech: Careening, Dry Dock
+ - [ ] Tech: War Galley, Galleon
+ - [ ] Tech: Heavy Demolition Ship
+ - [ ] Tech: Fast Fire Ship
+ - [ ] Tech: (Elite) Cannon Galleon
+ - [ ] Tech: Shipwright
+ - [ ] Tech: Elite Unique Ship
+** Barracks (11)
+ - [ ] Milita, Man-at-Arms, etc. (swordsmen)
+ - [ ] Spearman, Pikeman, Halberdier
+ - [ ] Condottiero
+ - [ ] Huskarl
+ - [ ] Eagle Warrior, Elite Eagle Warrior
+ - [ ] Tech: Swordsmen Upgrades
+ - [ ] Tech: Pikeman, Halberdier
+ - [ ] Tech: (Elite) Eagle Warrior
+ - [ ] Tech: Supplies
+ - [ ] Tech: Squires
+ - [ ] Tech: Arson
+** Archery Range (14)
+ - [ ] Archer, Crossbowman, Arbalest (archers)
+ - [ ] Skirmister, Elite Skirmisher
+ - [ ] Cavarly Archer, Heavy Cavalry Archer
+ - [ ] Hand Cannoneer, Slinger
+ - [ ] Genitour
+ - [ ] Slinger
+ - [ ] Tech: Crossbowman, Arbalester
+ - [ ] Tech: Elite, Imperial Skirmisher
+ - [ ] Tech: Heavy Cavalry Archer
+ - [ ] Tech: Elite Genitour
+ - [ ] Tech: Thumb Ring
+ - [ ] Tech: Parthian Tactics
+ - [ ] Elephant Archer
+ - [ ] Tech: Elite Elephant Archer
+** Stable (16)
+ - [ ] Scout Cavalry, Light Cavalry, Hussar
+ - [ ] Knight, Cavalier, Paladin (knights)
+ - [ ] Camel, Heavy Camel
+ - [ ] Battle Elephant, Elite Battle Elephant
+ - [ ] Tarkan
+ - [ ] Steppe Lancer
+ - [ ] Tech: Light Cavalry, Hussar
+ - [ ] Tech: Cavalier, Paladin
+ - [ ] Tech: Heavy, Imperial Camel Rider
+ - [ ] Tech: Battle Elephant, Steppe Lancer
+ - [ ] Tech: Bloodlines
+ - [ ] Tech: Husbandry
+ - [ ] Xolotl Warrior
+ - [ ] Shrivamsha Rider
+ - [ ] Tech: Elite Shrivamsha Rider
+ - [ ] Tech: Elite Battle Elephant
+** Siege Workshop (10)
+ - [ ] Battering Ram, Capped Ram, Siege Ram
+ - [ ] Mangonel, Onager, Siege Onager
+ - [ ] Scorpion, Heavy Scorpion
+ - [ ] Bombard Cannon
+ - [ ] Siege Tower
+ - [ ] Tech: Capped, Siege Ram
+ - [ ] Tech: (Siege) Onager
+ - [ ] Tech: Heavy Scorpion
+ - [ ] Armored Elephant
+ - [ ] Tech: Siege Elephant
+** Monastery (12)
+ - [ ] Monk
+ - [ ] Missionary
+ - [ ] Tech: Redemption
+ - [ ] Tech: Atonement
+ - [ ] Tech: Fervor
+ - [ ] Tech: Sanctity
+ - [ ] Tech: Faith
+ - [ ] Tech: Illumination
+ - [ ] Tech: Block Printing
+ - [ ] Tech: Heresy
+ - [ ] Tech: Theocracy
+ - [ ] Tech: Herbal Medicine
+** Market (10)
+ - [ ] Trade Cart
+ - [ ] Tech: Caravan
+ - [ ] Tech: Coinage, Banking
+ - [ ] Tech: Guilds
+ - [ ] Sell 100 Food
+ - [ ] Sell 100 Wood
+ - [ ] Sell 100 Stone
+ - [ ] Buy 100 Food
+ - [ ] Buy 100 Wood
+ - [ ] Buy 100 Stone
+** Castle (11)
+ - [ ] Build Unique Unit
+ - [ ] Build Trebuchet
+ - [ ] Petard
+ - [ ] Elite Kipchak (mouse)
+ - [ ] Flaming Camel
+ - [ ] Tech: Elite Unique Unit
+ - [ ] Tech: Unique Imperial Technology
+ - [ ] Tech: Unique Castle Technology
+ - [ ] Tech: Hoardings
+ - [ ] Tech: Sappers
+ - [ ] Conscription
+ - [-] Tech: Spies/Treason (mouse)
+** Mill (3)
+ - [ ] Reseed Farm
+ - [ ] Tech: Farm Upgrades
+ - [ ] Toggle Automatic Farm Reseeding
+** Mining Camp (2)
+ - [ ] Tech: Gold Upgrades
+ - [ ] Tech: Stone Upgrades
+** Lumber Camp (1)
+ - [ ] Tech: Wood Upgrades
+** Blacksmith (5)
+ - [ ] Tech: Melee Attack Upgrades
+ - [ ] Tech: Arrow Attack Upgrades
+ - [ ] Tech: Infantry Armor Upgrades
+ - [ ] Tech: Cavalry Armor Upgrades
+ - [ ] Tech: Archer Armor Upgrades
+** University (11)
+ - [ ] Tech: Masonry, Architecture
+ - [ ] Tech: Treadmill Crane
+ - [ ] Tech: Heated Shot
+ - [ ] Tech: Ballistics
+ - [ ] Tech: Chemistry
+ - [ ] Tech: Siege Engineers
+ - [ ] Tech: Arrowslits
+ - [ ] Tech: Murder Holes
+ - [ ] Tech: Tower Upgrades
+ - [ ] Tech: Fortified Wall
+ - [ ] Tech: Bombard Tower

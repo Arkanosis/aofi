@@ -1,0 +1,409 @@
+* Always available
+** Menus
+ - [ ] Objectives
+ - [ ] Display Technology Tree
+ - [ ] Chat Dialog
+ - [ ] Diplomacy
+ - [ ] Menu
+ - [ ] Display Options Screen
+** Settings
+ - [ ] Toggle Friend or Foe Colors
+ - [ ] Display Statistics
+ - [ ] Display Game Time
+ - [ ] Mini-map Economic Mode
+ - [ ] Mini-map Combat Mode
+ - [ ] Mini-map Normal Mode
+ - [ ] Slow Down Game
+ - [ ] Speed Up Game
+ - [ ] Toggle Visual Grid
+ - [ ] Toggle Health Bar
+ - [ ] Toggle Extended Tooltips
+** Game Commands
+ - [ ] Flare
+ - [ ] Pause Game
+ - [ ] Save Game
+ - [ ] Save Chapter
+** Chat
+ - [ ] Send Chat Message
+ - [ ] Review Chat Messages Backward
+ - [ ] Review Chat Messages Forward
+ - [ ] Review Event Messages Backward
+ - [ ] Review Event Messages Forward
+** Camera
+ - [ ] Click-Drag Scroll
+ - [ ] Scroll Down
+ - [ ] Scroll Left
+ - [ ] Scroll Right
+ - [ ] Scroll Up
+ - [ ] Zoom In
+ - [ ] Zoom Out
+ - [ ] Reset Zoom
+ - [ ] Return to Previous View
+** Spectator/Replay Commands
+ - [ ] Replay Speed Down
+ - [ ] Replay Speed Up
+ - [ ] Set Speed to Default
+ - [ ] Set Speed to Extra Fast
+ - [ ] Set Speed to Fast
+ - [ ] Set Speed to Slow
+ - [ ] Watch Gaia
+ - [ ] Watch Player One
+ - [ ] Watch Player Two
+ - [ ] Watch Player Three
+ - [ ] Watch Player Four
+ - [ ] Watch Player Five
+ - [ ] Watch Player Six
+ - [ ] Watch Player Seven
+ - [ ] Watch Player Eight
+** Control Groups
+ - [ ] Create Group #1
+ - [ ] Create Group #2
+ - [ ] Create Group #3
+ - [ ] Create Group #4
+ - [ ] Create Group #5
+ - [ ] Create Group #6
+ - [ ] Create Group #7
+ - [ ] Create Group #8
+ - [ ] Create Group #9
+ - [ ] Create Group #10
+ - [ ] Create Group #11
+ - [ ] Create Group #12
+ - [ ] Create Group #13
+ - [ ] Create Group #14
+ - [ ] Create Group #15
+ - [ ] Create Group #16
+ - [ ] Create Group #17
+ - [ ] Create Group #18
+ - [ ] Create Group #19
+ - [ ] Create Group #20
+ - [ ] Select Group #1
+ - [ ] Select Group #2
+ - [ ] Select Group #3
+ - [ ] Select Group #4
+ - [ ] Select Group #5
+ - [ ] Select Group #6
+ - [ ] Select Group #7
+ - [ ] Select Group #8
+ - [ ] Select Group #9
+ - [ ] Select Group #10
+ - [ ] Select Group #11
+ - [ ] Select Group #12
+ - [ ] Select Group #13
+ - [ ] Select Group #14
+ - [ ] Select Group #15
+ - [ ] Select Group #16
+ - [ ] Select Group #17
+ - [ ] Select Group #18
+ - [ ] Select Group #19
+ - [ ] Select Group #20
+ - [ ] Select & Center Group #1
+ - [ ] Select & Center Group #2
+ - [ ] Select & Center Group #3
+ - [ ] Select & Center Group #4
+ - [ ] Select & Center Group #5
+ - [ ] Select & Center Group #6
+ - [ ] Select & Center Group #7
+ - [ ] Select & Center Group #8
+ - [ ] Select & Center Group #9
+ - [ ] Select & Center Group #10
+ - [ ] Select & Center Group #11
+ - [ ] Select & Center Group #12
+ - [ ] Select & Center Group #13
+ - [ ] Select & Center Group #14
+ - [ ] Select & Center Group #15
+ - [ ] Select & Center Group #16
+ - [ ] Select & Center Group #17
+ - [ ] Select & Center Group #18
+ - [ ] Select & Center Group #19
+ - [ ] Select & Center Group #20
+ - [ ] Append Group #1
+ - [ ] Append Group #2
+ - [ ] Append Group #3
+ - [ ] Append Group #4
+ - [ ] Append Group #5
+ - [ ] Append Group #6
+ - [ ] Append Group #7
+ - [ ] Append Group #8
+ - [ ] Append Group #9
+ - [ ] Append Group #10
+ - [ ] Append Group #11
+ - [ ] Append Group #12
+ - [ ] Append Group #13
+ - [ ] Append Group #14
+ - [ ] Append Group #15
+ - [ ] Append Group #16
+ - [ ] Append Group #17
+ - [ ] Append Group #18
+ - [ ] Append Group #19
+ - [ ] Append Group #20
+ - [ ] Ungroup Control Group
+** Go-To Commands
+ - [ ] Go to Mill
+ - [ ] Go to Mining Camp
+ - [ ] Go to Lumber Camp
+ - [ ] Go to Dock
+ - [ ] Go to Blacksmith
+ - [ ] Go to Market
+ - [ ] Go to Monastery
+ - [ ] Go to University
+ - [ ] Go to Town Center
+ - [ ] Go to Barracks
+ - [ ] Go to Archery Range
+ - [ ] Go to Stable
+ - [ ] Go to Siege Workshop
+ - [ ] Go to Castle
+ - [ ] Go to Krepost
+ - [ ] Go to Next Idle Military Unit
+ - [ ] Go to Next Idle Villager
+ - [ ] Go to Selected Object
+ - [ ] Go to Last Notification
+ - [ ] Go to King
+ - [ ] Go to Donjon
+** Select Commands
+ - [ ] Select all Military Buildings
+ - [ ] Select all Docks
+ - [ ] Select all Barracks
+ - [ ] Select all Archery Ranges
+ - [ ] Select all Stables
+ - [ ] Select all Siege Workshops
+ - [ ] Select all Castles
+ - [ ] Select all Kreposts
+ - [ ] Select all Donjons
+ - [ ] Select all Monasteries
+ - [ ] Select all Town Centers
+ - [ ] Select all Markets
+ - [ ] Select all Blacksmiths
+ - [ ] Select all Universities
+ - [ ] Select all Land Military Units
+ - [ ] Select all Idle Villagers
+ - [ ] Select all Visible Land Military Units
+ - [ ] Select all Idle Trade Carts
+ - [ ] Select all Idle Land/Naval Military Units
+ - [ ] Select all Trade Carts/Cogs
+* Contextual
+** All Units
+ - [ ] Delete Unit
+ - [ ] Delete All Selected Units
+ - [ ] Garrison
+ - [ ] Stop
+** Military Units
+ - [ ] Attack Move
+ - [ ] Patrol
+ - [ ] Guard
+ - [ ] Follow
+ - [ ] Aggressive
+ - [ ] Defensive
+ - [ ] Stand Ground
+ - [ ] No Attack
+ - [ ] Line
+ - [ ] Box
+ - [ ] Staggered
+ - [ ] Flank
+ - [ ] Build (Serjeant)
+ - [ ] Change Weapon
+** Siege Units
+ - [ ] Unpack
+ - [ ] Pack
+ - [ ] Attack Ground
+** Monks
+ - [ ] Convert
+ - [ ] Heal
+ - [ ] Drop Relic
+** Villagers
+ - [ ] Economic Buildings
+ - [ ] Military Buildings
+ - [ ] Repair
+ - [ ] Cancel Build
+** Scout
+ - [ ] Auto Scout
+** Buildings/Transports
+ - [ ] Set Gather Point
+ - [ ] Remove Gather Point
+ - [ ] Go Back to Work
+ - [ ] Unload/Ungarrison
+ - [ ] Lock/Unlock Gate
+ - [ ] Ungarrison
+** Economic Build Menu
+ - [ ] House
+ - [ ] Mill
+ - [ ] Mining Camp
+ - [ ] Lumber Camp
+ - [ ] Dock
+ - [ ] Farm
+ - [ ] Blacksmith
+ - [ ] Market
+ - [ ] Monastery
+ - [ ] University
+ - [ ] Town Center
+ - [ ] Wonder
+ - [ ] Feitoria
+ - [ ] Caravanserai
+ - [ ] More Buildings
+** Military Build Menu
+ - [ ] Barracks
+ - [ ] Archery Range
+ - [ ] Stable
+ - [ ] Siege Workshop
+ - [ ] Outpost
+ - [ ] Palisade Wall
+ - [ ] Stone Wall
+ - [ ] Tower
+ - [ ] Bombard Tower
+ - [ ] Gate
+ - [ ] Palisade Gate
+ - [ ] Rotate Gate Clockwise
+ - [ ] Rotate Gate Counterclockwise
+ - [ ] Castle
+ - [ ] Krepost
+** Serjeant Build Menu
+ - [ ] Donjon
+** Fishing Ship Build
+ - [ ] Fish Trap
+ - [ ] Rebuild Fish Trap
+ - [ ] Toggle Automatic Fish Trap Rebuilding
+** Town Center
+ - [ ] Villager
+ - [ ] Flemish Militia
+ - [ ] Ring Town Bell
+ - [ ] Tech: Loom
+ - [ ] Tech: Wheelbarrow, Hand Cart
+ - [ ] Tech: Town Watch, Town Guard
+ - [ ] Tech: Age Up
+** Dock
+ - [ ] Fishing Ship
+ - [ ] Transport
+ - [ ] Trade Cog
+ - [ ] Galley, War Galley, Galleon
+ - [ ] Demolition Ship, Heavy Demolition Ship
+ - [ ] Fire Ship, Fast Fire Ship
+ - [ ] Cannon Galleon
+ - [ ] Unique Warships
+ - [ ] Longboat
+ - [ ] Turtle Ship, Elite Turtle Ship
+ - [ ] Tech: Gillnets
+ - [ ] Tech: Careening, Dry Dock
+ - [ ] Tech: War Galley, Galleon
+ - [ ] Tech: Heavy Demolition Ship
+ - [ ] Tech: Fast Fire Ship
+ - [ ] Tech: (Elite) Cannon Galleon
+ - [ ] Tech: Shipwright
+ - [ ] Tech: Elite Unique Ship
+** Barracks
+ - [ ] Milita, Man-at-Arms, etc. (swordsmen)
+ - [ ] Spearman, Pikeman, Halberdier
+ - [ ] Condottiero
+ - [ ] Huskarl
+ - [ ] Eagle Warrior, Elite Eagle Warrior
+ - [ ] Tech: Swordsmen Upgrades
+ - [ ] Tech: Pikeman, Halberdier
+ - [ ] Tech: (Elite) Eagle Warrior
+ - [ ] Tech: Supplies
+ - [ ] Tech: Squires
+ - [ ] Tech: Arson
+** Archery Range
+ - [ ] Archer, Crossbowman, Arbalest (archers)
+ - [ ] Skirmister, Elite Skirmisher
+ - [ ] Cavarly Archer, Heavy Cavalry Archer
+ - [ ] Hand Cannoneer, Slinger
+ - [ ] Genitour
+ - [ ] Slinger
+ - [ ] Tech: Crossbowman, Arbalester
+ - [ ] Tech: Elite, Imperial Skirmisher
+ - [ ] Tech: Heavy Cavalry Archer
+ - [ ] Tech: Elite Genitour
+ - [ ] Tech: Thumb Ring
+ - [ ] Tech: Parthian Tactics
+ - [ ] Elephant Archer
+ - [ ] Tech: Elite Elephant Archer
+** Stable
+ - [ ] Scout Cavalry, Light Cavalry, Hussar
+ - [ ] Knight, Cavalier, Paladin (knights)
+ - [ ] Camel, Heavy Camel
+ - [ ] Battle Elephant, Elite Battle Elephant
+ - [ ] Tarkan
+ - [ ] Steppe Lancer
+ - [ ] Tech: Light Cavalry, Hussar
+ - [ ] Tech: Cavalier, Paladin
+ - [ ] Tech: Heavy, Imperial Camel Rider
+ - [ ] Tech: Battle Elephant, Steppe Lancer
+ - [ ] Tech: Bloodlines
+ - [ ] Tech: Husbandry
+ - [ ] Xolotl Warrior
+ - [ ] Shrivamsha Rider
+ - [ ] Tech: Elite Shrivamsha Rider
+ - [ ] Tech: Elite Battle Elephant
+** Siege Workshop
+ - [ ] Battering Ram, Capped Ram, Siege Ram
+ - [ ] Mangonel, Onager, Siege Onager
+ - [ ] Scorpion, Heavy Scorpion
+ - [ ] Bombard Cannon
+ - [ ] Siege Tower
+ - [ ] Tech: Capped, Siege Ram
+ - [ ] Tech: (Siege) Onager
+ - [ ] Tech: Heavy Scorpion
+ - [ ] Armored Elephant
+ - [ ] Tech: Siege Elephant
+** Monastery
+ - [ ] Monk
+ - [ ] Missionary
+ - [ ] Tech: Redemption
+ - [ ] Tech: Atonement
+ - [ ] Tech: Fervor
+ - [ ] Tech: Sanctity
+ - [ ] Tech: Faith
+ - [ ] Tech: Illumination
+ - [ ] Tech: Block Printing
+ - [ ] Tech: Heresy
+ - [ ] Tech: Theocracy
+ - [ ] Tech: Herbal Medicine
+** Market
+ - [ ] Trade Cart
+ - [ ] Tech: Caravan
+ - [ ] Tech: Coinage, Banking
+ - [ ] Tech: Guilds
+ - [ ] Sell 100 Food
+ - [ ] Sell 100 Wood
+ - [ ] Sell 100 Stone
+ - [ ] Buy 100 Food
+ - [ ] Buy 100 Wood
+ - [ ] Buy 100 Stone
+** Castle
+ - [ ] Build Unique Unit
+ - [ ] Build Trebuchet
+ - [ ] Petard
+ - [ ] Elite Kipchak
+ - [ ] Flaming Camel
+ - [ ] Tech: Elite Unique Unit
+ - [ ] Tech: Unique Imperial Technology
+ - [ ] Tech: Unique Castle Technology
+ - [ ] Tech: Hoardings
+ - [ ] Tech: Sappers
+ - [ ] Conscription
+ - [ ] Tech: Spies/Treason
+** Mill
+ - [ ] Reseed Farm
+ - [ ] Tech: Farm Upgrades
+ - [ ] Toggle Automatic Farm Reseeding
+** Mining Camp
+ - [ ] Tech: Gold Upgrades
+ - [ ] Tech: Stone Upgrades
+** Lumber Camp
+ - [ ] Tech: Wood Upgrades
+** Blacksmith
+ - [ ] Tech: Melee Attack Upgrades
+ - [ ] Tech: Arrow Attack Upgrades
+ - [ ] Tech: Infantry Armor Upgrades
+ - [ ] Tech: Cavalry Armor Upgrades
+ - [ ] Tech: Archer Armor Upgrades
+** University
+ - [ ] Tech: Masonry, Architecture
+ - [ ] Tech: Treadmill Crane
+ - [ ] Tech: Heated Shot
+ - [ ] Tech: Ballistics
+ - [ ] Tech: Chemistry
+ - [ ] Tech: Siege Engineers
+ - [ ] Tech: Arrowslits
+ - [ ] Tech: Murder Holes
+ - [ ] Tech: Tower Upgrades
+ - [ ] Tech: Fortified Wall
+ - [ ] Tech: Bombard Tower
